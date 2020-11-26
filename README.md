@@ -1,4 +1,4 @@
-# VINICIUS DATA SCIENCE
+<p align = 'center'> # VINICIUS DATA SCIENCE </p>
 
 <p align = 'center'><img src="https://github.com/vfamim/Data-Science/raw/main/Logo/banner.jpg" style="zoom:43%;" /> </p>
 
