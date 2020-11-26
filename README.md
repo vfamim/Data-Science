@@ -1,6 +1,6 @@
 # VINICIUS DATA SCIENCE
 
-![](Logo/banner.jpg)
+<img src="https://github.com/vfamim/Data-Science/raw/main/Logo/banner.jpg" style="zoom:43%;" />
 
 # Portfólio de Ciência de Dados e Machine Learning
 
