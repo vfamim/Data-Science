@@ -1,6 +1,8 @@
 # VINICIUS DATA SCIENCE
 
-<img src="Logo/banner.jpg" style="zoom:40;" />
+<p align="center">
+  <img src="Logo/banner.jpg" style='zoom:40;" />
+</p>
 
 # Portfólio de Ciência de Dados e Machine Learning
 
