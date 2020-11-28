@@ -12,4 +12,5 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 
 Meu nome é Vinicius Ferreira Amim e sou cientista de dados junior. Sou bacharel em engenharia mecânica pela Universidade Federal do Vale do São Francisco e pós graduando em Ciência de Dados e Big Data Analytics pela faculdade Metropolitana.
 
-Trabalhei no setor industrial com data analysis para manutenção preditiva e no setor de projetos para energia solar.
+Trabalhei no setor industrial durante 3 anos, fazendo análises para manutenções e rendimento de máquinas e equipamentos, a partir daí surgiu o interesse em Python e seus módulos para manipulação, processamento e limpeza de dados, assim como Machine Learning, SQL e visualização de dados.
+
