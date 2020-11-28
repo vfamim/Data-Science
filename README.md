@@ -2,7 +2,9 @@
 
 <p align = 'center'><img src="https://github.com/vfamim/Data-Science/blob/main/Logo/Artboard.jpg" style="zoom:100%;" /> </p>
 
-# <p align ='center'>DSC : DATA SCIENCE EM CONSTRUÇÃO</p>
+# <p align ='center'>**DSC : DATA SCIENCE EM CONSTRUÇÃO**</p>
+
+
 
 # Portfólio de Ciência de Dados e Machine Learning
 
@@ -16,7 +18,7 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 
 **Meus Projetos:**
 
-Sobre construção
+Em construção, projetos novos em breve!
 
 # Sobre mim
 
