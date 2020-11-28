@@ -8,6 +8,14 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 
 
 
+**Links:**
+
+* [LinkedIn](https://www.linkedin.com/in/vinicius-ferreira-amim-24275750/)
+
+**Meus Projetos:**
+
+Sobre construção
+
 # Sobre mim
 
 Meu nome é Vinicius Ferreira Amim e sou cientista de dados junior. Sou bacharel em engenharia mecânica pela Universidade Federal do Vale do São Francisco e pós graduando em Ciência de Dados e Big Data Analytics pela faculdade Metropolitana.
