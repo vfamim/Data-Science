@@ -2,6 +2,8 @@
 
 <p align = 'center'><img src="https://github.com/vfamim/Data-Science/blob/main/Logo/Artboard.jpg" style="zoom:100%;" /> </p>
 
+# <p align ='center'>DSC : DATA SCIENCE EM CONSTRUÇÃO</p>
+
 # Portfólio de Ciência de Dados e Machine Learning
 
 O objetivo deste repositório é apresentar alguns projetos de ciência de dados completos para fins acadêmicos, autoaprendizagem e profissionais. Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. Todo o material será apresentado através do Jupyter Notebook.
