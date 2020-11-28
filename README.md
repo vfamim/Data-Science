@@ -2,6 +2,7 @@
 
 # <p align ='center'>**DSC : DATA SCIENCE EM CONSTRUÇÃO**</p>
 
+# <p align ='center'>-=-=-=-=-=-=-=-=-=-=-=-=-</p>
 
 
 # Portfólio de Ciência de Dados e Machine Learning
