@@ -1,6 +1,6 @@
 # <p align = 'center'> VINICIUS DATA SCIENCE </p>
 
-<p align = 'center'><img src="https://github.com/vfamim/Data-Science/raw/main/Logo/banner.jpg" style="zoom:43%;" /> </p>
+<p align = 'center'><img src="https://github.com/vfamim/Data-Science/blob/main/Logo/Artboard%201-100.jpg" style="zoom:100%;" /> </p>
 
 # Portfólio de Ciência de Dados e Machine Learning
 
