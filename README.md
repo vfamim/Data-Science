@@ -19,7 +19,7 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 
 **Meus Projetos:**
 
-* [U.S Medical Insurance Costs](https://github.com/vfamim/Data-Science/blob/main/U.S.%20Medical%20Insurance%20Costs/U.S.%20Medical%20Insurance%20Costs.ipynb)-  *Um projeto de análise de dados sobre custos de seguro médico nos EUA utilizando syntax do Python.
+* [U.S Medical Insurance Costs](https://github.com/vfamim/Data-Science/blob/main/U.S.%20Medical%20Insurance%20Costs/U.S.%20Medical%20Insurance%20Costs.ipynb)-  *Um projeto de análise de dados sobre custos de seguro médico nos EUA utilizando syntax do Python.*
 * [Life Expectancy and GDP](https://github.com/vfamim/Data-Science/blob/main/Life-Expectancy-and-GDP-Starter/life_expectancy_gdp.ipynb) - *Análise do PIB e expectativa de vida entre 6 países.*
 
 # Sobre mim
