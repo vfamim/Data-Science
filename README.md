@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/vfamim-LinkedIn-blue.svg)](https://www.linkedin.com/in/vinicius-ferreira-amim-24275750/)
+
 <p align = 'center'><img src="https://github.com/vfamim/Data-Science/blob/main/Logo/Artboard.jpg" style="zoom:100%;" /> </p>
 
 # <p align ='center'>**DSC : DATA SCIENCE EM CONSTRUÇÃO**</p>
