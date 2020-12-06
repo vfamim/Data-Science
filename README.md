@@ -1,4 +1,6 @@
-[![author](https://img.shields.io/badge/vfamim-LinkedIn-blue.svg)](https://www.linkedin.com/in/vinicius-ferreira-amim-24275750/)
+<center> [![author](https://img.shields.io/badge/vfamim-LinkedIn-blue.svg)](https://www.linkedin.com/in/vinicius-ferreira-amim-24275750/) </center>
+
+
 
 <p align = 'center'><img src="https://github.com/vfamim/Data-Science/blob/main/Logo/Artboard.jpg" style="zoom:100%;" /> </p>
 
