@@ -11,7 +11,7 @@
 
 # Portfólio de Ciência de Dados e Machine Learning
 
-O objetivo deste repositório é apresentar alguns projetos de ciência de dados completos para fins acadêmicos, autoaprendizagem e profissionais. Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. Todo o material será apresentado através do Jupyter Notebook.
+O objetivo deste repositório é apresentar alguns projetos de ciência de dados completos para fins acadêmicos, autoaprendizagem e profissionais. Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. Todo o material será apresentado através do Jupyter Notebook e 
 
 
 
@@ -35,7 +35,7 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 
 # Sobre mim
 
-Meu nome é Vinicius Ferreira Amim e sou cientista de dados junior. Sou bacharel em engenharia mecânica pela Universidade Federal do Vale do São Francisco e pós graduando em Ciência de Dados e Big Data Analytics pela faculdade Metropolitana.
+Meu nome é Vinicius Ferreira Amim e sou cientista de dados júnior. Sou bacharel em engenharia mecânica pela Universidade Federal do Vale do São Francisco e pós graduando em Ciência de Dados e Big Data Analytics pela faculdade Metropolitana.
 
 Trabalhei no setor industrial durante 3 anos, fazendo análises para manutenções e rendimento de máquinas e equipamentos, a partir daí surgiu o interesse em Python e seus módulos para manipulação, processamento e limpeza de dados, assim como Machine Learning, SQL e visualização de dados.
 
