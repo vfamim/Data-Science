@@ -31,7 +31,7 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 
 * [Life Expectancy and GDP](https://github.com/vfamim/Data-Science/blob/main/Life-Expectancy-and-GDP-Starter/life_expectancy_gdp.ipynb) - *Análise do PIB e expectativa de vida entre 6 países.*
 
-* [Biodiversity](https://github.com/vfamim/Data-Science/blob/main/Biodiversity/Biodiversity DataViz.ipynb) (ENG) - *Análise dos dados para investigar os status de conservação de espécies no National Park Service.*
+* [Biodiversity](https://github.com/vfamim/Data-Science/blob/main/Biodiversity/Biodiversity_DataViz.ipynb) [ENG] - *Análise dos dados para investigar os status de conservação de espécies no National Park Service.*
 
 # Sobre mim
 
