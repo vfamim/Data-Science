@@ -35,7 +35,7 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 
 
 ### 3. Machine Learning:
-* [OkCupide date A Scientist](https://github.com/vfamim/Data-Science/blob/main/OKCupid-Date-A-Scientist/date-a-scientist.ipynb)[ENG] - *Modelo de Machine Learning para prever o status de relacionamento de uma pessoa através de alguns hábitos encontrados no dataset. Também foi feito uma tentativa para prever a altura.*
+* [OkCupide date A Scientist](https://github.com/vfamim/Data-Science/blob/main/OKCupid-Date-A-Scientist/date-a-scientist.ipynb) [ENG] - *Modelo de Machine Learning para prever o status de relacionamento de uma pessoa através de alguns hábitos encontrados no dataset. Também foi feito uma tentativa para prever a altura.*
 
 # Sobre mim
 
