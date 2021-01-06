@@ -36,6 +36,7 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 
 ### 3. Machine Learning:
 * [OkCupid-Date-A-Scientist](https://github.com/vfamim/Data-Science/blob/main/OKCupid-Date-A-Scientist/date-a-scientist.ipynb) [ENG] - *Modelo de Machine Learning para prever o status de relacionamento de uma pessoa através de alguns hábitos encontrados no dataset. Também foi feito uma tentativa para prever a altura. Você pode conferir uma pequena apresentação em PDF aqui: [OkCupid-Date-A-Scientist.pdf](https://github.com/vfamim/Data-Science/blob/main/OKCupid-Date-A-Scientist/Okcupid.pdf)*
+* [Frauder Block Company](https://github.com/vfamim/Data-Science/blob/main/Frauder%20Block%20Company/frauder_blocker.ipynb)[ENG] - Modelo de Machine Learning para detectar transações fraudulentas.
 
 # Sobre mim
 
