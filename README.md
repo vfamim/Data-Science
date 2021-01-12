@@ -32,15 +32,14 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 * [Life Expectancy and GDP](https://github.com/vfamim/Data-Science/blob/main/Life-Expectancy-and-GDP-Starter/life_expectancy_gdp.ipynb) - *Análise do PIB e expectativa de vida entre 6 países.*
 * [Biodiversity](https://github.com/vfamim/Data-Science/blob/main/Biodiversity/Biodiversity_DataViz.ipynb) [ENG] - *Análise dos dados para investigar os status de conservação de espécies no National Park Service.*
 
-
-
 ### 3. Machine Learning:
 * [OkCupid-Date-A-Scientist](https://github.com/vfamim/Data-Science/blob/main/OKCupid-Date-A-Scientist/date-a-scientist.ipynb) [ENG] - *Modelo de Machine Learning para prever o status de relacionamento de uma pessoa através de alguns hábitos encontrados no dataset. Também foi feito uma tentativa para prever a altura. Você pode conferir uma pequena apresentação em PDF aqui: [OkCupid-Date-A-Scientist.pdf](https://github.com/vfamim/Data-Science/blob/main/OKCupid-Date-A-Scientist/Okcupid.pdf)*
-* [Frauder Block Company](https://github.com/vfamim/Data-Science/blob/main/Frauder%20Block%20Company/frauder_blocker.ipynb)[ENG] - Modelo de Machine Learning para detectar transações fraudulentas.
+* [Frauder Block Company ](https://github.com/vfamim/Data-Science/blob/main/Frauder%20Block%20Company/frauder_blocker.ipynb)[ENG] - *Proposta de modelo de Machine Learning para solucionar um problema de classificação, o algoritmo foi desenvolvido para detectar transações fraudulentas.*
+* [Spotify Songs Popularity Prediction](https://github.com/vfamim/spotfy_dataset) [ENG] - *Modelo de Machine Learning para solucionar um problema de regressão, utilizando de características técnicas de uma música para prever a sua popularidade no aplicativo Spotify. Confira o README do projeto*
 
 # Sobre mim
 
-Meu nome é Vinicius Ferreira Amim e sou cientista de dados júnior. Sou bacharel em engenharia mecânica pela Universidade Federal do Vale do São Francisco e pós graduando em Ciência de Dados e Big Data Analytics pela faculdade Metropolitana.
+Meu nome é Vinicius Ferreira Amim, sou cientista de dados júnior e bacharel em engenharia mecânica pela Universidade Federal do Vale do São Francisco, tenho pós-graduação em Ciência de Dados e Big Data Analytics..
 
-Trabalhei no setor industrial durante 3 anos, fazendo análises para manutenções e rendimento de máquinas e equipamentos, a partir daí surgiu o interesse em Python e seus módulos para manipulação, processamento e limpeza de dados, assim como Machine Learning, SQL e visualização de dados.
+Trabalhei no setor industrial durante 3 anos, fazendo análises para manutenções e rendimento de máquinas e equipamentos, a partir daí surgiu o interesse em Python e seus módulos para manipulação, processamento e limpeza de dados,  Machine Learning, SQL etc.
 
