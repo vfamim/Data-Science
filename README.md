@@ -17,7 +17,7 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/in/vinicius-ferreira-amim-24275750/)
+* [LinkedIn](https://www.linkedin.com/in/vfamim/)
 
   
 
