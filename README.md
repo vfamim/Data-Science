@@ -34,8 +34,9 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 
 ### 3. Machine Learning:
 * [OkCupid-Date-A-Scientist](https://github.com/vfamim/Data-Science/blob/main/OKCupid-Date-A-Scientist/date-a-scientist.ipynb) [ENG] - *Modelo de Machine Learning para prever o status de relacionamento de uma pessoa através de alguns hábitos encontrados no dataset. Também foi feito uma tentativa para prever a altura. Você pode conferir uma pequena apresentação em PDF aqui: [OkCupid-Date-A-Scientist.pdf](https://github.com/vfamim/Data-Science/blob/main/OKCupid-Date-A-Scientist/Okcupid.pdf)*
-* [Frauder Block Company ](https://github.com/vfamim/Data-Science/blob/main/Frauder%20Block%20Company/frauder_blocker.ipynb)[ENG] - *Proposta de modelo de Machine Learning para solucionar um problema de classificação, o algoritmo foi desenvolvido para detectar transações fraudulentas.*
-* [Spotify Songs Popularity Prediction](https://github.com/vfamim/spotfy_dataset) [ENG] - *Modelo de Machine Learning para solucionar um problema de regressão, utilizando de características técnicas de uma música para prever a sua popularidade no aplicativo Spotify. Confira o README do projeto*
+* [Blocker Fraud Company](https://github.com/vfamim/Data-Science/blob/main/Blocker Fraud/ver001_blocker_fraud.ipynb) [ENG] - *Proposta de modelo de Machine Learning para solucionar um problema de classificação, o algoritmo foi desenvolvido para detectar transações fraudulentas.*
+* [Spotify Songs Popularity Prediction](https://github.com/vfamim/spotfy_dataset) [ENG] - *Modelo de Machine Learning para solucionar um problema de regressão, utilizando de características técnicas de uma música para prever a sua popularidade no aplicativo Spotify. Confira o README do projeto.*
+* [Insurance All Company](https://github.com/vfamim/Insurance-all-company) [ENG] - Na empresa fictícia chamada Insurance All, o desafio será encontrar possíveis futuros clientes, gerar insights e analisar algumas estratégias para o time de vendas: será que se dobrássemos as metas teremos melhores resultados? O modelo atual é o mais lucrativo?
 
 # Sobre mim
 
