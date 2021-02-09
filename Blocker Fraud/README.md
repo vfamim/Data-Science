@@ -261,7 +261,8 @@ Regular customer represents 66.2% of transactions destination.
 | BASELINE: DUMMY CLASSIFIER                                   | LOGISTIC REGRESSION                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![confusion1](https://github.com/vfamim/Data-Science/blob/main/Blocker%20Fraud/image/confusion01.svg) | ![confusion2](https://github.com/vfamim/Data-Science/blob/main/Blocker%20Fraud/image/confusion02.svg) |
-| **RANDOM FOREST CLASSIFIER**                                 | **XGBOOST CLASSIFIER**                                       |
+| RANDOM FOREST CLASSIFIER                                   | XGBOOST CLASSIFIER                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![confusion3](https://github.com/vfamim/Data-Science/blob/main/Blocker%20Fraud/image/confusion03.svg) | ![confusion4](https://github.com/vfamim/Data-Science/blob/main/Blocker%20Fraud/image/confusion04.svg) |
 
 ## 4.1. Cross Validation
