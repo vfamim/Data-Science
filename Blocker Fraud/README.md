@@ -1,3 +1,27 @@
+# Table of contents
+
+- [Intro](#intro)
+- [1.0. About the Data](#10-about-the-data)
+  - [1.1. Columns Description](#11-columns-description)
+  - [1.2. Numerical Attributes](#12-numerical-attributes)
+  - [1.3. Categorical Attributes](#13-categorical-attributes)
+- [2.0. Hypotheses Creation](#20-hypotheses-creation)
+  - [2.1. Hypotheses List](#21-hypotheses-list)
+- [3.0. Exploratory Data Analysis (E.D.A)](#30-exploratory-data-analysis-eda)
+  - [3.1. Univariate Analysis](#31-univariate-analysis)
+  - [3.2. Bivariate Analysis](#32-bivariate-analysis)
+- [4.0. Machine Learning Modeling](#40-machine-learning-modeling)
+  - [4.1. Cross Validation](#41-cross-validation)
+- [5.0. Final Model: Random Forest Classifier](#50-final-model-random-forest-classifier)
+- [6.0. Business Performance](#60-business-performance)
+  - [11.1. What is the model's *precision* and *accuracy*?](#111-what-is-the-models-precision-and-accuracy)
+  - [11.2. How reliable is the model in classifying transactions as *legitimate* or *fraudulent*?](#112-how-reliable-is-the-model-in-classifying-transactions-as-legitimate-or-fraudulent)
+  - [11.3.  What is the expected billing by the company if we classify 100% of data transactions with the model?](#113--what-is-the-expected-billing-by-the-company-if-we-classify-100-of-data-transactions-with-the-model)
+  - [11.4. What is the loss expected by company in case of model failure?](#114-what-is-the-loss-expected-by-company-in-case-of-model-failure)
+  - [11.5. What is the profit expected by the Blocker Fraud Company when using model?](#115-what-is-the-profit-expected-by-the-blocker-fraud-company-when-using-model)
+
+
+
 # Intro 
 
 ## The Blocker Fraud Company 
