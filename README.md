@@ -11,11 +11,11 @@
 
 # Portfólio de Ciência de Dados e Machine Learning
 
-O objetivo deste repositório é apresentar alguns projetos de ciência de dados completos para fins acadêmicos, autoaprendizagem e profissionais. Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. Todo o material será apresentado através do Jupyter Notebook e 
+O objetivo deste repositório é apresentar alguns projetos de ciência de dados, para fins acadêmicos, autoaprendizagem e profissionais. Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. Todo o material será apresentado através de arquivos .ipynbs feitos no Jupyter Notebook. 
 
 
 
-**Links:**
+**Link para contato:**
 
 * [LinkedIn](https://www.linkedin.com/in/vfamim/)
 
@@ -33,14 +33,14 @@ O objetivo deste repositório é apresentar alguns projetos de ciência de dados
 * [Biodiversity](https://github.com/vfamim/Data-Science/blob/main/Biodiversity/Biodiversity_DataViz.ipynb) [ENG] - *Análise dos dados para investigar os status de conservação de espécies no National Park Service.*
 
 ### 3. Machine Learning:
-* [OkCupid-Date-A-Scientist](https://github.com/vfamim/Data-Science/blob/main/OKCupid-Date-A-Scientist/date-a-scientist.ipynb) [ENG] - *Modelo de Machine Learning para prever o status de relacionamento de uma pessoa através de alguns hábitos encontrados no dataset. Também foi feito uma tentativa para prever a altura. Você pode conferir uma pequena apresentação em PDF aqui: [OkCupid-Date-A-Scientist.pdf](https://github.com/vfamim/Data-Science/blob/main/OKCupid-Date-A-Scientist/Okcupid.pdf)*
+* [OkCupid-Date-A-Scientist](https://github.com/vfamim/Date-a-Scientist) [ENG] - *A proposta aqui é predizer se a pessoa é solteiro ou em alguma espécie de relacionamento, foi utilizado modelos classificadores com dados obtidos do aplicativo OkCupid.*
 * [Blocker Fraud Company](https://github.com/vfamim/Data-Science/tree/main/Blocker%20Fraud) [ENG] - *Proposta de modelo de Machine Learning para solucionar um problema de classificação, o algoritmo foi desenvolvido para detectar transações fraudulentas.*
 * [Spotify Songs Popularity Prediction](https://github.com/vfamim/spotfy_dataset) [ENG] - *Modelo de Machine Learning para solucionar um problema de regressão, utilizando de características técnicas de uma música para prever a sua popularidade no aplicativo Spotify. Confira o README do projeto.*
 * [Insurance All Company](https://github.com/vfamim/Insurance-all-company) [ENG] - Na empresa fictícia chamada Insurance All, o desafio será encontrar possíveis futuros clientes, gerar insights e analisar algumas estratégias para o time de vendas: será que se dobrássemos as metas teremos melhores resultados? O modelo atual é o mais lucrativo?
 
 # Sobre mim
 
-Meu nome é Vinicius Ferreira Amim, sou cientista de dados júnior e bacharel em engenharia mecânica pela Universidade Federal do Vale do São Francisco, tenho pós-graduação em Ciência de Dados e Big Data Analytics..
+Meu nome é *Vinicius Ferreira Amim*, sou cientista de dados júnior e bacharel em engenharia mecânica pela Universidade Federal do Vale do São Francisco e tenho pós-graduação em Ciência de Dados e Big Data Analytics.
 
-Trabalhei no setor industrial durante 3 anos, fazendo análises para manutenções e rendimento de máquinas e equipamentos, a partir daí surgiu o interesse em Python e seus módulos para manipulação, processamento e limpeza de dados,  Machine Learning, SQL etc.
+Trabalhei no setor industrial durante 3 anos fazendo análises para manutenções e rendimento de máquinas e equipamentos, a partir daí surgiu o interesse em Python e seus módulos para manipulação, processamento, limpeza de dados,  Machine Learning, SQL etc.
 
