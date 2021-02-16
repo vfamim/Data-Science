@@ -2,7 +2,7 @@
 
 
 
-<p align = 'center'><img src="https://github.com/vfamim/Data-Science/blob/main/Logo/Artboard.jpg" style="zoom:100%;" /> </p>
+<p align = 'center'><img src="https://github.com/vfamim/Data-Science/blob/main/Logo/data%20project.png" style="zoom:50%;" /> </p>
 
 # <p align ='center'>**DSC : DATA SCIENCE EM CONSTRUÇÃO**</p>
 
