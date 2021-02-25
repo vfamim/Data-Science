@@ -2,7 +2,7 @@
 
 
 
-<p align = 'center'><img src="https://github.com/vfamim/Data-Science/blob/main/Logo/data%20project.png" style="zoom:50%;" /> </p>
+<p align = 'center'><img src="https://github.com/vfamim/Data-Science/blob/main/Logo/banner_databox.jpg" style="zoom:50%;" /> </p>
 
 
 # Portfólio de Ciência de Dados e Machine Learning
