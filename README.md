@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/vfamim-LinkedIn-blue.svg)](https://www.linkedin.com/in/vinicius-ferreira-amim-24275750/) [![python](https://img.shields.io/badge/python-v3.9-yellowgreen)](https://www.python.org/downloads/) [![License: GPLv3 (shields.io)](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://perso.crans.org/besson/LICENSE.html)
+[![author](https://img.shields.io/badge/vfamim-LinkedIn-blue.svg)](https://www.linkedin.com/in/vfamim/) [![python](https://img.shields.io/badge/python-v3.9-yellowgreen)](https://www.python.org/downloads/) [![License: GPLv3 (shields.io)](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://perso.crans.org/besson/LICENSE.html)
 
 
 
